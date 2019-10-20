@@ -26,19 +26,6 @@ It can send the pre-compiled software (or any other data) to data to microcontro
 
 This is the Downloader for GZ series microcontroller.
 
-### Supports
-- Mass erase entire flash memory
-- Write S19 file content into flash memory
-- Dump data from memory
-- Define security bytes for connect device
-
-### Does not support
-- Erase range
-- Debugging
-- Change baud rate
-- Write bytes or ranges
-- ... (many other features prog08sz supported) 
-
 ## Hardware
 
 To be HW interface easy and cheap, buy TTL USB-Serial interface from China.
