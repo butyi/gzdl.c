@@ -60,15 +60,16 @@ Download file prg.s19 from home folder with defined baud rate and remains in ter
 
 ## Further Development
 
-If you only improve PC side features, just 
+If you only improve PC (client) side features, just 
 - Edit gzdl.c 
 - Compile gzdl by `gcc gzdl.c -o gzdl`
 - Enjoy it.
 
+Most of improvements need to be implemented on both PC (client) side and uC (server) side software.
+
 ## Baud rate
 
-Baus rate is depends on the bootloader. Download is only possible if defined 
-baud rate is same as implemented in the bootloader.
+Baud rate depends on the bootloader. Download is only possible if defined baud rate is same as implemented in the bootloader.
 Refer bootloader code [here](https://github.com/butyi/gzbl/).
 
 ## Supported interfaces
