@@ -54,7 +54,7 @@ To be HW interface easy and cheap, buy TTL USB-Serial interface from China.
 I use FT232RL FTDI USB to TTL Serial Adapter Module for communication. This is supported by both Linux and Windows 10.
 With this you do not need voltage level converter (MAX232) on microcontroller side hardware, you just need some cable and that's it.
 
-More details about hardware is [here.](https://github.com/butyi/gzml/)
+More details about hardware is [here.](https://github.com/butyi/gzml.py/)
 
 ## How get use gzdl?
 
